@@ -3,3 +3,4 @@
 ## problem: machine learning
 	1. text preprocessing
 	2. naive bayes for text classifier
+	3. logistic regression

@@ -1,3 +1,4 @@
+from collections import Counter
 class MuitinomialNB1():
 
   def __init__(self):
