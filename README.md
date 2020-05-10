@@ -4,3 +4,4 @@
 	1. text preprocessing
 	2. naive bayes for text classifier
 	3. logistic regression
+	4. kmeans
