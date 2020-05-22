@@ -5,3 +5,4 @@
 	2. naive bayes for text classifier
 	3. logistic regression
 	4. kmeans
+	5. svm + neural network with pytorch
