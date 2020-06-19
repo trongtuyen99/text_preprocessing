@@ -6,3 +6,4 @@
 	3. logistic regression
 	4. kmeans
 	5. svm + neural network with pytorch
+	6. cnn + rnn with pytorch
